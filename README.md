@@ -15,7 +15,8 @@ instructions:
 6. Download Respository.
 7. Unzip folder and drop in local disk (C:) -> Program Files -> Ampps -> www
 8. Open Broswer type "localhost"
-9. Program is ready to run.
+9. Always click the InitializeDB button before run.
+10. Ready for run.
 
 Demo:
 https://www.youtube.com/watch?v=waTOF4K1v38
